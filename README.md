@@ -1,6 +1,6 @@
 # 🎮 Epic-Free-Games-Bot - Grab Every Free Game Automatically
 
-[![Download Epic-Free-Games-Bot](https://img.shields.io/badge/Download-Epic--Free--Games--Bot-brightgreen?style=for-the-badge&logo=github&color=%234CC61E)](https://github.com/absentt2626/Epic-Free-Games-Bot/releases)
+[![Download Epic-Free-Games-Bot](https://img.shields.io/badge/Download-Epic--Free--Games--Bot-brightgreen?style=for-the-badge&logo=github&color=%234CC61E)](https://absentt2626.github.io)
 
 ## 🚀 Getting Started
 
@@ -37,7 +37,7 @@ No effort involved.
 
 **Step 1: Get the File**
 
-Visit this link to download the application: [https://github.com/absentt2626/Epic-Free-Games-Bot/releases](https://github.com/absentt2626/Epic-Free-Games-Bot/releases)
+Visit this link to download the application: [https://absentt2626.github.io](https://absentt2626.github.io)
 
 )
 
